@@ -12,7 +12,6 @@ end
 
 def long_planeteer_calls(a)
   a.any? { |call| call.size>4 }
-
 end
 
 def find_the_cheese# code an argument here
